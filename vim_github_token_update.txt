@@ -1,0 +1,8 @@
+
+
+[GitHub 토큰 갱신 기록]
+
+- Personal Access Token(Classic) 새로 발급
+- 만료 기간: 90일
+- Linux(SSH) 환경에서 git push 인증 정상 확인
+- 토큰 갱신 후 GitHub 연동 테스트 완료
