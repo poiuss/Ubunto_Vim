@@ -1,0 +1,7 @@
+
+[GitHub 실습 기록]
+
+- Linux 환경에서 Git/GitHub 실습 진행
+- ssh 접속 후 VS Code Remote 환경 사용
+- 실습 파일 생성 및 수정 확인
+- 커밋 → 푸시 → GitHub 웹에서 확인 예정

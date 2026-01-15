@@ -1,0 +1,10 @@
+
+# SSH Configuration Test File
+
+Port 22
+PermitRootLogin no
+이 줄을 수정했사옵니다 ㅎㅎㅎ 
+검색해서 찾았어요 리눅스 명령어는 쉽게 볼게 아니네요!
+이것은!!! 아주 많은 공부가 필요합니다 홍홍홍
+ChallengeResponseAuthentication no
+UsePAM yes
